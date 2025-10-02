@@ -63,8 +63,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
      - ROC-AUC: 0.974  
    - Reasonably detects most frauds with low false positives  
 
-4. **XGBoost (Optional / Future Work)**  
-   - Can be applied to further improve F1-score and precision  
+ 
 
 ---
 
